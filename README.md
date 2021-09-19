@@ -1,7 +1,7 @@
-# Sono uno studente del itis G. Marconi Verona
-- 🏫Frequento l'itis G. Marconi Verona
+# Sono uno studente del ITIS G. Marconi Verona
+- 🏫Frequento l'ITIS G. Marconi Verona.
 - 👨‍🎓 Studiando: Python, Java, Java Script, Html.
--  🥅 2021 Obbiettivi: Creare un client di minecraft e imparare a creare plug-in per Minecraft
+-  🥅 2021 Obbiettivi: Creare un client di minecraft e imparare a creare plug-in per Minecraft.
 
 <br />
 
@@ -19,11 +19,21 @@
 ---
 
 ## Chi sono:
-Sono Matteo Pernigo uno studente che frequenta il terzo anno delle superiori.
+Sono Matteo Pernigo, ho 16 anni e frequento il terzo anno dell'ITIS G. Marconi.
 <br />
-Sono appassionato ell'informati fin da quando avevo 7 anni cioé da quando con mio padre ha inizito a farmi smontare vari componenti elettronici,
+Sono appassionato di informatica fin da quando avevo 7 anni, cioé fin da quando con mio padre abbiamo iniziato insieme a smontare vari componenti elettronici.
 <br />
-da quel momento mi sono appassionato a all'età di 11 anni mio zio mi ha regalato i primi corsi che parlavano delle basi sul Html e Java e fu quello a indirizzarmi verso la scelta di fare l'informatico e ho scelto proprio l'itis G. Marconi Verona perchè lo aveva frequentato anche mi zio.
+Da quel momento mi sono appassionato della materia, ed all'età di 11 anni mio zio mi ha regalato i primi corsi che parlavano delle basi di Html e Java; fu quello ad indirizzarmi verso la scelta di studiare per diventare in futuro un informatico, ed ho scelto proprio l'ITIS G. Marconi di Verona perchè lo aveva frequentato anche lui che oggi lavora come programmatore informatico.
+
+<br />
+
+---
+## I miei hobby:
+
+- 💻 Programmare ([Discord bot in JS](https://github.com/topics/discord-js)).
+- 🔌 Sistemare vecchi pc.
+- 🎮 Gicoare.
+- 🗻Fare piccole passeggiate in montagna.
 
 <br />
 
