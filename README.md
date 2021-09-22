@@ -19,11 +19,11 @@
 ---
 
 ## Chi sono:
-> Sono Matteo Pernigo, ho 16 anni e frequento il terzo anno dell'ITIS G. Marconi.
+Sono Matteo Pernigo, ho 16 anni e frequento il terzo anno dell'ITIS G. Marconi.
 <br />
-> Sono appassionato di informatica fin da quando avevo 7 anni, cioé fin da quando con mio padre abbiamo iniziato insieme a smontare vari componenti elettronici.
+Sono appassionato di informatica fin da quando avevo 7 anni, cioé fin da quando con mio padre abbiamo iniziato insieme a smontare vari componenti elettronici.
 <br />
-> Da quel momento mi sono appassionato della materia, ed all'età di 11 anni mio zio mi ha regalato i primi corsi che parlavano delle basi di Html e Java; fu quello ad indirizzarmi verso la scelta di studiare per diventare in futuro un informatico, ed ho scelto proprio l'ITIS G. Marconi di Verona perchè lo aveva frequentato anche lui che oggi lavora come programmatore informatico.
+Da quel momento mi sono appassionato della materia, ed all'età di 11 anni mio zio mi ha regalato i primi corsi che parlavano delle basi di Html e Java; fu quello ad indirizzarmi verso la scelta di studiare per diventare in futuro un informatico, ed ho scelto proprio l'ITIS G. Marconi di Verona perchè lo aveva frequentato anche lui che oggi lavora come programmatore informatico.
 
 <br />
 
