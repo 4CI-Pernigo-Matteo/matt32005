@@ -31,9 +31,11 @@ Da quel momento mi sono appassionato della materia, ed all'età di 11 anni mio z
 ## I miei hobby:
 
 - 💻 Programmare ([Discord bot in JS](https://github.com/topics/discord-js)).
+- 🔐 Cyber security
 - 🔌 Sistemare vecchi pc.
 - 🎮 Gicoare.
-- 🗻Fare piccole passeggiate in montagna.
+- 🗻 Fare piccole passeggiate in montagna.
+- 🏍️ Andare in moto
 
 <br />
 
