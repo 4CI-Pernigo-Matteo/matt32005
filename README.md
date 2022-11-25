@@ -1,7 +1,7 @@
 # Sono uno studente del ITIS G. Marconi Verona
  - 🏫Frequento l'ITIS G. Marconi Verona.
 - 👨‍🎓 Studiando: Python, Java, Java Script, Html.
--  🥅 2021 Obbiettivi: Creare un client di minecraft e imparare a creare plug-in per Minecraft.
+-  🥅 2022 Obbiettivi: Creare un client di minecraft, imparare a creare plug-in per Minecraft, e prepararmi per l'ambito di penetration testing
 
 <br />
 
